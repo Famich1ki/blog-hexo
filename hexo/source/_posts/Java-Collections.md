@@ -6,12 +6,12 @@ tags:
   - Java Collections
 categories:
   - [Java SE, Collections]
-cover: https://pub-fddc22a69144475699b9bf722f249d94.r2.dev/java-collections.png
+cover: https://pics.findfuns.org/java-collections.png
 ---
 
 # 先放一张集合的层级图
 
-<img src="https://pub-fddc22a69144475699b9bf722f249d94.r2.dev/Collections-hierarchy.png" alt="collectionsHierarchy" style="zoom:50%;" />
+<img src="https://pics.findfuns.org/Collections-hierarchy.png" alt="collectionsHierarchy" style="zoom:50%;" />
 
 # List
 
